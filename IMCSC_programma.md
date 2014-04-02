@@ -117,7 +117,10 @@ Esame conclusivo con presentazione e breve discussione di un elaborato originale
  - Pratica di scrittura in Lilypond
  - Esercitazione pratica
  
-####Ascolti-Lezione
-  - Studie2 -> nozioni di sintesi additiva
-  - I'm sitting in a Room - Lezione sullo spazio acustico
-  - Lucier pure wave -> nozioni di psicoacustica
+####Proposte per gli Ascolti-Lezione
+  - Stockhausen Studie2 -> nozioni di sintesi additiva
+  - Alvin Lucier I'm sitting in a Room -> nozioni sullo spazio acustico, registrazione, riproduzione.
+  - Alvin Lucier (brani per strumento e Pure Wave) -> nozioni di psicoacustica
+  - Stockhausen Mantra -> nozioni di elaborazione in tempo reale del suono 
+  
+*lista da completare*
