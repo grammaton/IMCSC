@@ -8,8 +8,8 @@
     +-------+-----------+---------+
     | Corso | Monte Ore | Crediti |
     +-------+-----------+---------+
-    | Tr    | 20        | 05      |
-    | Bn    | 20        | 05      |
+    | Tr    | 24        | 03      |
+    | Bn    | 24        | 03      |
     +-------+-----------+---------+
 
 ###Finalità
@@ -52,28 +52,34 @@ Il corso avrà luogo dal mese di Aprile al mese di Luglio 2014 due volte a setti
 		Sabato     19  aprile - Vacanze Paquali
 	
 	Lezione 2
-		Mercoledì  23 aprile sez A 09:00 - 13:00 B 14:00 - 18:00	  /GS
-		Sabato     26 aprile sez C 09:00 - 13:00 D 14:00 - 18:00	  /MM
-		Mercoledì  30 aprile sez E 09:00 - 13:00 F 14:00 - 18:00	  /GS
-		Sabato      3 maggio sez G 09:00 - 13:00 H 14:00 - 18:00	  /MM
+		Mercoledì  23 aprile sez A 09:00 - 13:00 B 14:00 - 18:00 /GS
+		Sabato     26 aprile sez C 09:00 - 13:00 D 14:00 - 18:00 /MM
+		Mercoledì  30 aprile sez E 09:00 - 13:00 F 14:00 - 18:00 /GS
+		Sabato      3 maggio sez G 09:00 - 13:00 H 14:00 - 18:00 /MM
 	
 	Lezione 3
-		Mercoledì   7 maggio sez A 09:00 - 13:00 B 14:00 - 18:00	  /GS
-		Sabato     10 maggio sez C 09:00 - 13:00 D 14:00 - 18:00	  /MM
-		Mercoledì  14 maggio sez E 09:00 - 13:00 F 14:00 - 18:00	  /GS
-		Sabato     17 maggio sez G 09:00 - 13:00 H 14:00 - 18:00	  /MM
+		Mercoledì   7 maggio sez A 09:00 - 13:00 B 14:00 - 18:00 /GS
+		Sabato     10 maggio sez C 09:00 - 13:00 D 14:00 - 18:00 /MM
+		Mercoledì  14 maggio sez E 09:00 - 13:00 F 14:00 - 18:00 /GS
+		Sabato     17 maggio sez G 09:00 - 13:00 H 14:00 - 18:00 /MM
 	
 	Lezione 4
-		Mercoledì  21 maggio sez A 09:00 - 13:00 B 14:00 - 18:00	  /GS
-		Sabato     24 maggio sez C 09:00 - 13:00 D 14:00 - 18:00	  /MM
-		Mercoledì  28 maggio sez E 09:00 - 13:00 F 14:00 - 18:00	  /GS
-		Sabato     31 maggio sez G 09:00 - 13:00 H 14:00 - 18:00	  /MM
+		Mercoledì  21 maggio sez A 09:00 - 13:00 B 14:00 - 18:00 /GS
+		Sabato     24 maggio sez C 09:00 - 13:00 D 14:00 - 18:00 /MM
+		Mercoledì  28 maggio sez E 09:00 - 13:00 F 14:00 - 18:00 /GS
+		Sabato     31 maggio sez G 09:00 - 13:00 H 14:00 - 18:00 /MM
 		
 	Lezione 5
-		Mercoledì   5 giugno sez A 09:00 - 13:00 B 14:00 - 18:00	  /GS
-		Sabato      7 giugno sez C 09:00 - 13:00 D 14:00 - 18:00	  /MM
-		Mercoledì  11 giugno sez E 09:00 - 13:00 F 14:00 - 18:00	  /GS
-		Sabato     14 giugno sez G 09:00 - 13:00 H 14:00 - 18:00	  /MM
+		Mercoledì   5 giugno sez A 09:00 - 13:00 B 14:00 - 18:00 /GS
+		Sabato      7 giugno sez C 09:00 - 13:00 D 14:00 - 18:00 /MM
+		Mercoledì  11 giugno sez E 09:00 - 13:00 F 14:00 - 18:00 /GS
+		Sabato     14 giugno sez G 09:00 - 13:00 H 14:00 - 18:00 /MM
+		
+	Lezione 6
+		Mercoledì  18 giugno sez A 09:00 - 13:00 B 14:00 - 18:00 /GS
+		Sabato     21 giugno sez C 09:00 - 13:00 D 14:00 - 18:00 /MM
+		Mercoledì  25 giugno sez E 09:00 - 13:00 F 14:00 - 18:00 /GS
+		Sabato     28 giugno sez G 09:00 - 13:00 H 14:00 - 18:00 /MM
 
 Dato l'elenco fornito dalla segreteria non è possibile stabilire chi dei 255 studenti abbia già frequentato il corso negli anni precedenti. Si rende necessario il controllo da parte della segreteria del registro presenze del M° Sciajno in modo da inserire nel corso 2014 solo quelli che non hanno maturato la frequenza minima. Gli altri hanno diritto ad accedere alla prova finale senza obbligo di frequenza al presente corso.
 
