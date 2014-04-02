@@ -118,9 +118,9 @@ Esame conclusivo con presentazione e breve discussione di un elaborato originale
  - Esercitazione pratica
  
 ####Proposte per gli Ascolti-Lezione
+*lista da completare*
+
   - Stockhausen Studie2 -> nozioni di sintesi additiva
   - Alvin Lucier I'm sitting in a Room -> nozioni sullo spazio acustico, registrazione, riproduzione.
   - Alvin Lucier (brani per strumento e Pure Wave) -> nozioni di psicoacustica
   - Stockhausen Mantra -> nozioni di elaborazione in tempo reale del suono 
-  
-*lista da completare*
