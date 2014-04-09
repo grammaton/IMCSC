@@ -34,7 +34,7 @@ Il corso si svilupperà in incontri laboratorio della durata di 4 ore suddivise 
 Il corso avrà luogo dal mese di Aprile al mese di Luglio 2014 due volte a settimana (nei giorni di mercoledì e sabato, salvo eccezioni) con classi di 25 studenti che seguiranno le lezioni a cadenza di quindici giorni: 
 
 	Luogo delle lezioni:
-	Aula Bianchini, III° piano
+	Aula Bianchini, III piano
 	
 	Sezioni: A B C D E F G H = 200 studenti
 	Sez: A B E F -> Giuseppe Silvi  /GS
