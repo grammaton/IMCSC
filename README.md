@@ -1,5 +1,6 @@
 #Informatica Musicale Conservatorio S. Cecilia
 
+<<<<<<< HEAD
 ##01. Suono, Catena Elettroacustica, ADC e Campionamento
 
 ###Ascolti:
@@ -20,3 +21,10 @@
 ###Ascolti:
 
  - 
+=======
+Informatica Musicale Conservatorio S. Cecilia
+
+Audacity
+csound
+winxound
+>>>>>>> FETCH_HEAD
