@@ -1,0 +1,7 @@
+markdown: redcarpet
+pygments: true
+
+title_tag_text: IMCSC, Informatica Musicale Conservatorio S. Ceciclia
+h1_tag_text: Informatica
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
