@@ -1,7 +1,3 @@
-#Informatica Musicale Conservatorio S. Cecilia
-
-----
-
 ##01. Suono, Catena Elettroacustica, ADC e Campionamento
 
 ###01.1 Suono
