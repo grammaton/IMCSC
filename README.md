@@ -6,7 +6,7 @@
 
 ###01.1 Suono
 
-Il suono è il fenomeno fisico che stimola il senso dell'udito, dato dalla vibrazione di un corpo elastico in un mezzo elastico. La vibrazione si propaga nell'aria, o in un altro mezzo elastico, e raggiunge l'apparato uditivo. L'orecchio, attraverso un complesso meccanismo interno, suggerisce al cervello una sensazione uditiva correlata alla vibrazione stimolante.
+Il suono è il fenomeno fisico che stimola il senso dell'udito, dato dalla vibrazione di un corpo in un mezzo elastico. La vibrazione si propaga nell'aria, o in un altro mezzo elastico, e raggiunge l'apparato uditivo. L'orecchio, attraverso un complesso meccanismo interno, suggerisce al cervello una sensazione uditiva correlata alla vibrazione stimolante.
 
 Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostamento delle particelle del mezzo elastico, intorno alla posizione di riposo e lungo la direzione di propagazione dell'onda. La vibrazione generata dalla sorgente sonora trasmette il proprio movimento vibratorio alle particelle adiacenti.
 
@@ -42,6 +42,17 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 ---- 
 
 ##03. Csound, Computer Music
+
+<<<<<<< HEAD
+> Early computers could not do real-time performance – they took many seconds to compute a single second of sound. But today, real-time performance is possible; and practical real-time programming is a big part of this book. Thus, laptops can join with chamber groups and orchestras and thereby add rich new timbres to the already beautiful timbres of acoustic instruments.
+>What now is the musical challenge of the future? I believe it is the limits in our understanding of the human brain; and specifically knowing what sound waves, sound patterns, timbres and sequences that humans recognize as beautiful and meaningful music – and why! "
+> *Max Mathews*
+=======
+> “Early computers could not do real-time performance – they took many seconds to compute a single second of sound. But today, real-time performance is possible; and practical real-time programming is a big part of this book. Thus, laptops can join with chamber groups and orchestras and thereby add rich new timbres to the already beautiful timbres of acoustic instruments.
+What now is the musical challenge of the future? I believe it is the limits in our understanding of the human brain; and specifically knowing what sound waves, sound patterns, timbres and sequences that humans recognize as beautiful and meaningful music – and why!”
+
+*Max Mathews*
+>>>>>>> FETCH_HEAD
 
 ###03.1 Analisi e Sintesi di un Timbro
 
