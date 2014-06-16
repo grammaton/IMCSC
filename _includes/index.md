@@ -50,6 +50,7 @@ What now is the musical challenge of the future? I believe it is the limits in o
 - *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
 
 ![IBM 704](http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/1920px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg)
+**IBM 704**
 
 ###03.1 Analisi e Sintesi di un Timbro
 
