@@ -7,7 +7,7 @@ Informatica Musicale Conservatorio S. Cecilia - Roma
 *Edagrd Varèse*
 
 ###Ascolti:
-- [*Ionisation*](http://en.wikipedia.org/wiki/Ionisation_(Varèse) - E. Varèse
+- [*Ionisation*](http://goo.gl/Uaeg74) - E. Varèse
 - [*Poeme Electronique*](http://en.wikipedia.org/wiki/Poème_électronique) - E. Varèse
 - [*Sonatas and Interludes*](http://en.wikipedia.org/wiki/Sonatas_and_interludes) - J. Cage
  
