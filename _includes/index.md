@@ -24,8 +24,21 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 
 ###01.2 Catena Elettroacustica
 
+Una breve e tipica catena elettroacustica per la musica elettroacustica:
+
+- Microfono
+- Interfaccia Audio di entrata
+	- Pre-amplificatore
+	- Convertitore Analogico/Digitale
+- Computer
+- Interfaccia Audio di uscita
+	- Convertitore Digitale/Analogico
+- Altoparlante
+
 ###01.3 Il Campionamento Digitale
- 
+
+Breve descrizione complessa del Campionamento più descrizione esemplificativa.
+
 ----
 
 ##02. Oscillazioni Sinusoidali e Timbro
@@ -35,22 +48,28 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 *John Cage*
 
 ###Ascolti:
-- *StudieII* - K. Stockhausen
-- *Op. 27* - A. Webern
-- *Incontri di fasce sonore* - F. Evangelisti
+- [*StudieII*](http://en.wikipedia.org/wiki/Studie_II) - K. Stockhausen
+- [*Variations for piano, op. 27*](http://goo.gl/u0u9J2) - A. Webern
+- [*Incontri di fasce sonore*](http://www.nuovaconsonanza.it/index.php?collegamento=14578034607) - F. Evangelisti
 
 ![Studio di Fonologia](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Studio_di_fonologia_del_1955_della_sede_Rai_di_Milano_-_Museo_degli_strumenti_musicali_del_castello_sforzesco_-_Milano.JPG/1920px-Studio_di_fonologia_del_1955_della_sede_Rai_di_Milano_-_Museo_degli_strumenti_musicali_del_castello_sforzesco_-_Milano.JPG)
 [Synthesizer](http://en.wikipedia.org/wiki/Studio_di_fonologia_musicale_di_Radio_Milano)
 
 ###02.1 Oscillazioni Sinuoidali
 
+Cosa è un'onda sinusoidale e come si genera con Audacity.
+
 ###02.2 Timbro
+
+Descrizione di Timbro, percezione, composizione spettrale.
 
 ###02.3 Registrare il suono di uno strumento
 
+Registrazione di uno strumento musicale, breve tecnica microfonica, conoscenza dello strumento.
+
 ###02.4 Analisi del Timbro di uno strumento
 
-
+Analisi di alcuni timbri di strumenti musicali registrati in classe
 
 ---- 
 
@@ -62,13 +81,16 @@ What now is the musical challenge of the future? I believe it is the limits in o
 *Max Mathews*
 
 ###Ascolti:
-- *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
-- *Trapped in convert* - R. Boulanger
+- [*Daisy Bell (Bicycle built for two)*]() - J. Kelly M. Mathews
+- [*Trapped in convert*]() - R. Boulanger
+- [*Turenas*](https://www.academia.edu/5497062/Chowning_la_sintesi_FM_Analisi_di_Turenas) - J. Chowning
 
 ![IBM 704](http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/1920px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg)
 [An IBM 704 computer at NASA in 1957](http://en.wikipedia.org/wiki/IBM_704)
 
 ###03.1 Analisi e Sintesi di un Timbro
+
+Dai timbri registrati, analisi della composizione spettrale e sintesi con csound.
 
 
 
