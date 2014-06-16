@@ -1,3 +1,7 @@
+Informatica Musicale
+Conservatorio S. Cecilia
+Roma
+
 ##01. Prologo Elettroacustico
 
 ###01.1 Suono
