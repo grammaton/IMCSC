@@ -7,7 +7,7 @@ Informatica Musicale Conservatorio S. Cecilia - Roma
 *Edagrd Varèse*
 
 ###Ascolti:
-- [*Ionisation*](http://en.wikipedia.org/wiki/Ionisation_(Varèse)) - E. Varèse
+- [*Ionisation*](http://en.wikipedia.org/wiki/Ionisation_(Varèse) - E. Varèse
 - [*Poeme Electronique*](http://en.wikipedia.org/wiki/Poème_électronique) - E. Varèse
 - [*Sonatas and Interludes*](http://en.wikipedia.org/wiki/Sonatas_and_interludes) - J. Cage
  
@@ -29,6 +29,10 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 ----
 
 ##02. Oscillazioni Sinusoidali e Timbro
+
+> I can't understand why people are frightened of new ideas. I'm frightened of the old ones.
+
+*John Cage*
 
 ###Ascolti:
 - *StudieII* - K. Stockhausen
