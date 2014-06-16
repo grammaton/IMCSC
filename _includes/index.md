@@ -5,7 +5,7 @@ Informatica Musicale Conservatorio S. Cecilia - Roma
 ###Ascolti:
 - *Ionisation* - E. Varèse
 - *Poeme Electronique* - E. Varèse
-- *Sonates and Interludes* - J. Cage
+- *Kernel Expansion* - N. Barrett
  
 ###01.1 Suono
 
@@ -26,6 +26,7 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 ###Ascolti:
 - *StudieII* - K. Stockhausen
 - *Op. 27* - A. Webern
+- *Sonates and Interludes* - J. Cage
 
 ###02.1 Oscillazioni Sinuoidali
 
@@ -47,7 +48,7 @@ What now is the musical challenge of the future? I believe it is the limits in o
 *Max Mathews*
 
 ###Ascolti:
-- *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
+- [*Daisy Bell (Bicycle built for two)*](http://en.wikipedia.org/wiki/Daisy_Bell) - J. Kelly M. Mathews
 
 ![IBM 704](http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/1920px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg)
 [An IBM 704 computer at NASA in 1957](http://en.wikipedia.org/wiki/IBM_704)
