@@ -3,9 +3,12 @@ Informatica Musicale Conservatorio S. Cecilia - Roma
 ##01. Prologo Elettroacustico
 
 ###Ascolti:
-- *Ionisation* - E. Varèse
-- *Poeme Electronique* - E. Varèse
-- *Kernel Expansion* - N. Barrett
+- [*Ionisation*](http://en.wikipedia.org/wiki/Ionisation_(Varèse)) - E. Varèse
+- [*Poeme Electronique*](http://en.wikipedia.org/wiki/Poème_électronique) - E. Varèse
+- [*Sonatas and Interludes*](http://en.wikipedia.org/wiki/Sonatas_and_interludes) - J. Cage
+ 
+![Philips Pavillon](http://upload.wikimedia.org/wikipedia/commons/e/e7/Expo58_building_Philips.jpg)
+[The Philips Pavilion at the Brussels World's Fair 1958](http://en.wikipedia.org/wiki/Philips_Pavilion)
  
 ###01.1 Suono
 
@@ -26,7 +29,6 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 ###Ascolti:
 - *StudieII* - K. Stockhausen
 - *Op. 27* - A. Webern
-- *Sonates and Interludes* - J. Cage
 
 ###02.1 Oscillazioni Sinuoidali
 
@@ -48,7 +50,8 @@ What now is the musical challenge of the future? I believe it is the limits in o
 *Max Mathews*
 
 ###Ascolti:
-- [*Daisy Bell (Bicycle built for two)*](http://en.wikipedia.org/wiki/Daisy_Bell) - J. Kelly M. Mathews
+- *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
+- *Trapped in convert* - R. Boulanger
 
 ![IBM 704](http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/1920px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg)
 [An IBM 704 computer at NASA in 1957](http://en.wikipedia.org/wiki/IBM_704)
