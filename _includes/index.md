@@ -2,6 +2,10 @@ Informatica Musicale Conservatorio S. Cecilia - Roma
 
 ##01. Prologo Elettroacustico
 
+> I dream of instruments obedient to my thought and which with their contribution of a whole new world of unsuspected sounds, will lend themselves to the exigencies of my inner rhythm.
+
+*Edagrd Varèse*
+
 ###Ascolti:
 - [*Ionisation*](http://en.wikipedia.org/wiki/Ionisation_(Varèse)) - E. Varèse
 - [*Poeme Electronique*](http://en.wikipedia.org/wiki/Poème_électronique) - E. Varèse
@@ -29,6 +33,10 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 ###Ascolti:
 - *StudieII* - K. Stockhausen
 - *Op. 27* - A. Webern
+- *Incontri di fasce sonore* - F. Evangelisti
+
+![Studio di Fonologia](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Studio_di_fonologia_del_1955_della_sede_Rai_di_Milano_-_Museo_degli_strumenti_musicali_del_castello_sforzesco_-_Milano.JPG/1920px-Studio_di_fonologia_del_1955_della_sede_Rai_di_Milano_-_Museo_degli_strumenti_musicali_del_castello_sforzesco_-_Milano.JPG)
+[Synthesizer](http://en.wikipedia.org/wiki/Studio_di_fonologia_musicale_di_Radio_Milano)
 
 ###02.1 Oscillazioni Sinuoidali
 
