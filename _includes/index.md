@@ -42,10 +42,17 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 ##03. Csound, Computer Music
 
 > “Early computers could not do real-time performance – they took many seconds to compute a single second of sound. But today, real-time performance is possible; and practical real-time programming is a big part of this book. Thus, laptops can join with chamber groups and orchestras and thereby add rich new timbres to the already beautiful timbres of acoustic instruments.
-What now is the musical challenge of the future? I believe it is the limits in our understanding of the human brain; and specifically knowing what sound waves, sound patterns, timbres and sequences that humans recognize as beautiful and meaningful music – and why!” - *Max Mathews*
+What now is the musical challenge of the future? I believe it is the limits in our understanding of the human brain; and specifically knowing what sound waves, sound patterns, timbres and sequences that humans recognize as beautiful and meaningful music – and why!”
+
+*Max Mathews*
 
 ###Ascolti:
 - *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
 
+![IBM 704](http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/1920px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg)
+
 ###03.1 Analisi e Sintesi di un Timbro
+
+
+
 
