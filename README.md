@@ -1,4 +1,4 @@
-##01. Suono, Catena Elettroacustica, ADC e Campionamento
+##01. Prologo Elettroacustico
 
 ###01.1 Suono
 
