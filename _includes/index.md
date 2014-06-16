@@ -2,6 +2,11 @@ Informatica Musicale Conservatorio S. Cecilia - Roma
 
 ##01. Prologo Elettroacustico
 
+###Ascolti:
+- *Ionisation* - E. Varèse
+- *Poeme Electronique* - E. Varèse
+- *Sonates and Interludes* - J. Cage
+ 
 ###01.1 Suono
 
 Il suono è il fenomeno fisico che stimola il senso dell'udito, dato dalla vibrazione di un corpo in un mezzo elastico. La vibrazione si propaga nell'aria, o in un altro mezzo elastico, e raggiunge l'apparato uditivo. L'orecchio, attraverso un complesso meccanismo interno, suggerisce al cervello una sensazione uditiva correlata alla vibrazione stimolante.
@@ -10,19 +15,17 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 
 <!-- Le particelle a loro volta, iniziando ad oscillare, trasmettono il movimento alle altre particelle vicine e queste a loro volta ad altre ancora, provocando una variazione locale della pressione; in questo modo, un semplice movimento vibratorio si propaga meccanicamente originando un'onda sonora (o onda acustica), che è pertanto onda longitudinale. Si ha un'onda longitudinale quando le particelle del mezzo in cui si propaga l'onda, oscillano lungo la direzione di propagazione. Le onde meccaniche longitudinali sono anche denominate onde di pressione. Il suono è un'onda che gode delle seguenti proprietà: riflessione, rifrazione e diffrazione, ma non della polarizzazione (a differenza della luce che è un'onda elettromagnetica, ovvero un'onda ha come la frequenza -->
 
-###01.2 Breve descrizione della Catena Elettroacustica
+###01.2 Catena Elettroacustica
 
 ###01.3 Il Campionamento Digitale
-
-###Ascolti:
-
- - *Ionisation* - E. Varèse
- - *Poeme Electronique* - E. Varèse
- - *Sonates and Interludes* - J. Cage
  
 ----
 
 ##02. Oscillazioni Sinusoidali e Timbro
+
+###Ascolti:
+- *StudieII* - K. Stockhausen
+- *Op. 27* - A. Webern
 
 ###02.1 Oscillazioni Sinuoidali
 
@@ -32,10 +35,7 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 
 ###02.4 Analisi del Timbro di uno strumento
 
-###Ascolti:
 
- - *StudieII* - K. Stockhausen
- - *Op. 27* - A. Webern
 
 ---- 
 
@@ -44,8 +44,8 @@ Una vibrazione acustica è descrivibile come una oscillazione, ovvero lo spostam
 > “Early computers could not do real-time performance – they took many seconds to compute a single second of sound. But today, real-time performance is possible; and practical real-time programming is a big part of this book. Thus, laptops can join with chamber groups and orchestras and thereby add rich new timbres to the already beautiful timbres of acoustic instruments.
 What now is the musical challenge of the future? I believe it is the limits in our understanding of the human brain; and specifically knowing what sound waves, sound patterns, timbres and sequences that humans recognize as beautiful and meaningful music – and why!” - *Max Mathews*
 
+###Ascolti:
+- *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
+
 ###03.1 Analisi e Sintesi di un Timbro
 
-###Ascolti:
-
-- *Daisy Bell (Bicycle built for two)* - J. Kelly M. Mathews
