@@ -1,5 +1,4 @@
->Informatica Musicale
->Conservatorio S. Cecilia - Roma
+Informatica Musicale Conservatorio S. Cecilia - Roma
 
 ##01. Prologo Elettroacustico
 
