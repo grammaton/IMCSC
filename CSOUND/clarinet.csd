@@ -9,7 +9,7 @@ csound -3 -A -o clarinet.aif
 <CsInstruments>
 sr     = 44100
 kr     = 4410
-nchnls = 2
+nchnls = 
 
 instr 1
   idur   = p3
@@ -30,7 +30,7 @@ instr 1
      amod  oscili   adyn, ifq2, if2                    ; modulator
   
      a1    oscili   aenv, ifq1+amod, if1               ; carrier
-           outch 2, a1
+           out a1
 endin
 </CsInstruments>
 
