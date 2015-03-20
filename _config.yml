@@ -1,7 +1,9 @@
-markdown: redcarpet
-pygments: true
+# Site settings
+title: IMCSC, materiali corso
+tag_text: IMCSC
+description: Informatica Musciale Conservatorio S. Cecilia
 
-title_tag_text: IMCSC, Informatica Musicale Conservatorio S. Ceciclia
-h1_tag_text: IMCSC
+# Build settings
+markdown: kramdown
 
-exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
+exclude: ["README.md"]
