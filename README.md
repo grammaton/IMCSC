@@ -20,3 +20,8 @@
 ### Esercizio:
 
 Scegliere un brano dal repertorio illustrato e compilare una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali.
+
+### Bibliografia
+
+(Armando Gentilucci - Introduzione alla Musica Elettronica)[https://copy.com/gmatZ8qkaw1WROAG]
+(Fred K. Prieberg)[]
