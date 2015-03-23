@@ -15,13 +15,13 @@ layout: default
  - John Chowning - *Turenas* 1972
  - Jean-Claude Risset - *Sud* 1985
  - Luigi Nono - *Post-preaeludium per Donau* 1987
- - Pierre Boulez - [*Anthem II*](https://copy.com/nvUFxEoO6YubGHzo) - I Tres lent [1997]
+ - Pierre Boulez - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
  - Michelangelo Lupone - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
  - Giorgio Nottoli - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
  
 ----
 
-### Esercizio:
+### Esercizio 01:
 
 Scegliere un brano dal repertorio illustrato e compilare una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali.
 
