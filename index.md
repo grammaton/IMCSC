@@ -11,13 +11,13 @@ layout: default
  - Karlheinz Stockhausen - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
  - karlheinz Stockhausen - *Gesange der Junglinge* 1956
  - Luciano Berio - *Thema, omaggio a Joyce* 1958
- - Max Mathews - *Daisy Bell* 1961
+ - Max Mathews - [*Daisy Bell*](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
  - John Chowning - *Turenas* 1972
  - Jean-Claude Risset - *Sud* 1985
  - Luigi Nono - *Post-preaeludium per Donau* 1987
- - Pierre Boulez - *Anthem II* 1997
- - Michelangelo Lupone - *Gran Cassa* 2006
- - Giorgio Nottoli - *Traiettoria Tesa* 2012
+ - Pierre Boulez - [*Anthem II*](https://copy.com/nvUFxEoO6YubGHzo) - I Tres lent [1997]
+ - Michelangelo Lupone - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
+ - Giorgio Nottoli - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
  
 ----
 
