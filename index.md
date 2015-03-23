@@ -8,7 +8,7 @@ layout: default
 
 
  - John Cage - *Sonates and Interludes* (Primo Interludio)
- - Karlheinz Stockhausen - *Studie II* 1954
+ - Karlheinz Stockhausen - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
  - karlheinz Stockhausen - *Gesange der Junglinge* 1956
  - Luciano Berio - *Thema, omaggio a Joyce* 1958
  - Max Mathews - *Daisy Bell* 1961
