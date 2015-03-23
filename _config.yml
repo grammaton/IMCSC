@@ -1,7 +1,7 @@
 # Site settings
-title: IMCSC, materiali corso
+title: IMCSC
 tag_text: IMCSC
-description: Informatica Musciale Conservatorio S. Cecilia
+description: Informatica Musicale - Conservatorio Santa Cecila
 
 # Build settings
 markdown: kramdown
