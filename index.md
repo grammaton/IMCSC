@@ -7,12 +7,14 @@ layout: default
 ### Ascolti:
 
 
- - John Cage - *Sonatas and Interludes* (Primo Interludio) - [partitura](https://copy.com/tD0ddJVzf6sLwkf1) - [1946–48]
+ - John Cage - *Sonatas and Interludes* (Primo Interludio) - [1946–48]
+ - - [partitura](https://copy.com/tD0ddJVzf6sLwkf1) 
  - Karlheinz Stockhausen - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
  - karlheinz Stockhausen - *Gesange der Junglinge* 1956
  - Luciano Berio - *Thema, omaggio a Joyce* 1958
  - Max Mathews - [*Daisy Bell*](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
- - John Chowning - *Turenas* - [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas) -  [1972]
+ - John Chowning - *Turenas*  -  [1972]
+ - - [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
  - Jean-Claude Risset - *Sud* 1985
  - Luigi Nono - *Post-preaeludium per Donau* [1987] - [partitura]()
  - Pierre Boulez - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
