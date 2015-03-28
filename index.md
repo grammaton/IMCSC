@@ -6,7 +6,7 @@ layout: default
 
 ### Ascolti:
 
- 1. John Cage - *Sonatas and Interludes* (Primo Interludio) - [1946–48]
+ 1. John Cage - *Sonatas and Interludes* - [1946–48]
    * [partitura](https://copy.com/tD0ddJVzf6sLwkf1) 
  2. Karlheinz Stockhausen - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
  3. karlheinz Stockhausen - *Gesange der Junglinge* 1956
@@ -15,7 +15,8 @@ layout: default
  6. John Chowning - *Turenas*  -  [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
  7. Jean-Claude Risset - *Sud* 1985
- 8. Luigi Nono - *Post-preaeludium per Donau* [1987] - [partitura]()
+ 8. Luigi Nono - *Post-preaeludium per Donau* [1987]
+   * [partitura](https://copy.com/btDo94C1vMYhgm17)
  9. Pierre Boulez - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
  10. Michelangelo Lupone - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
  11. Giorgio Nottoli - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
