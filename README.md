@@ -1,9 +1,6 @@
 ## 01. Introduzione al repertorio elettroacustico
 
-[![Join the chat at https://gitter.im/grammaton/IMCSC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grammaton/IMCSC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ### Ascolti:
-
 
  - John Cage - *Sonatas and Interludes* [1946–1948]
  - Karlheinz Stockhausen - *Studie II* [1954]
@@ -27,3 +24,7 @@ Scegliere un brano dal repertorio illustrato e compilare una breve analisi compr
 
  - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
  - [Fred K. Prieberg](https://copy.com/mU6LRdCdxUlrVAIZ)
+
+----
+
+[![Join the chat at https://gitter.im/grammaton/IMCSC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grammaton/IMCSC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
