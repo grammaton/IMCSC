@@ -27,7 +27,7 @@ layout: default
  
 ----
 
-<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AhFlhQFvYUstdFNDQlRhQXJiR1BXMjAtOEQyQ1FZZ2c&font=Bevan-PotanoSans&maptype=toner&lang=it&height=600' width='100%' height='300' frameborder='0'></iframe>
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AhFlhQFvYUstdFNDQlRhQXJiR1BXMjAtOEQyQ1FZZ2c&font=Bevan-PotanoSans&maptype=toner&lang=it&height=500' width='100%' height='500' frameborder='0'></iframe>
 
 ----
 
