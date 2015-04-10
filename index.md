@@ -6,10 +6,6 @@ layout: default
 
 ----
 
-<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AhFlhQFvYUstdFNDQlRhQXJiR1BXMjAtOEQyQ1FZZ2c&font=Bevan-PotanoSans&maptype=toner&lang=it&height=600' width='100%' height='600' frameborder='0'></iframe>
-
-----
-
 ## 01. Introduzione al repertorio elettroacustico
 
 ### Ascolti:
@@ -29,6 +25,10 @@ layout: default
  10. Michelangelo LUPONE - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
  11. Giorgio NOTTOLI - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
  
+----
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AhFlhQFvYUstdFNDQlRhQXJiR1BXMjAtOEQyQ1FZZ2c&font=Bevan-PotanoSans&maptype=toner&lang=it&height=600' width='100%' height='300' frameborder='0'></iframe>
+
 ----
 
 ### Esercizio 01:
