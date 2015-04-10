@@ -13,7 +13,7 @@ layout: default
  1. John CAGE - *Sonatas and Interludes* - [1946–48]
    * [partitura](https://copy.com/tD0ddJVzf6sLwkf1) 
  2. Karlheinz STOCKHAUSEN - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
- 3. Karlheinz STOCKHAUSEN - *Gesange der Junglinge* 1956
+ 3. Karlheinz STOCKHAUSEN - *Gesange der Junglinge* [1956]
  4. Luciano BERIO - [*Thema, omaggio a Joyce*](https://copy.com/AD3Idwj1ZeWr8Iw3) [1958]
    * [Registrazione originale della voce - YOUTUBE](https://www.youtube.com/watch?v=c3IS5Cj_l7w)
  5. Max MATHEWS - [*Daisy Bell* - YOUTUBE](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
@@ -22,6 +22,7 @@ layout: default
  7. Jean-Claude RISSET - *Sud* 1985
  8. Luigi NONO - [*Post-preaeludium per Donau*](https://copy.com/epwTjv3yK2S37SoA) [1987]
    * [partitura](https://copy.com/btDo94C1vMYhgm17)
+   * [analisi](https://copy.com/HSTLzNLpaS0NjGtz)
  9. Pierre BOULEZ - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
  10. Michelangelo LUPONE - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
  11. Giorgio NOTTOLI - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
