@@ -17,26 +17,29 @@ layout: default
    * [analisi](https://copy.com/rJSaV1jcrtdjndhn)
  3. Karlheinz STOCKHAUSEN - [*Gesange der Junglinge*](https://copy.com/mgl0rxtcOepMMkGY) [1956]
    * [analisi](https://copy.com/z7JIKmfuqiVCs4yl)
- 4. Luciano BERIO - [*Thema, omaggio a Joyce*](https://copy.com/AD3Idwj1ZeWr8Iw3) [1958]
+ 4. Franco EVANGELISTI - [*Incontri di Fasce Sonore*](https://www.youtube.com/watch?v=7ZUJMbNfUTE) [1957]
+   * [analisi](https://copy.com/vQdYinjrrtN44OqT)
+   * [analisi](https://copy.com/nOocELFSHGL0OUkW)
+ 5. Luciano BERIO - [*Thema, omaggio a Joyce*](https://copy.com/AD3Idwj1ZeWr8Iw3) [1958]
    * [Registrazione originale della voce - YOUTUBE](https://www.youtube.com/watch?v=c3IS5Cj_l7w)
    * [note di programma](http://www.lucianoberio.org/node/1503?948448529=1)
    * [articolo](https://copy.com/l72m4MsCWbpx6sin)
- 5. Max MATHEWS - [*Daisy Bell* - YOUTUBE](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
+ 6. Max MATHEWS - [*Daisy Bell* - YOUTUBE](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
    * [analisi](https://copy.com/nfMrfeEssQzgNnsv)
- 6. John CHOWNING - [*Turenas*](https://copy.com/6GJXt3OMEEwz8zwn) [1972]
+ 7. John CHOWNING - [*Turenas*](https://copy.com/6GJXt3OMEEwz8zwn) [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
    * [frammento ricreato con CSOUND]()
    * [partitura CSOUND]()
- 7. Jean-Claude RISSET - [*Sud* - YOUTUBE](https://www.youtube.com/watch?v=Fhj2O4jToKI) 1985
+ 8. Jean-Claude RISSET - [*Sud* - YOUTUBE](https://www.youtube.com/watch?v=Fhj2O4jToKI) 1985
    * [analisi](https://copy.com/lVUoTMaREgXFv9g0)
- 8. Luigi NONO - [*Post-preaeludium per Donau*](https://copy.com/epwTjv3yK2S37SoA) [1987]
+ 9. Luigi NONO - [*Post-preaeludium per Donau*](https://copy.com/epwTjv3yK2S37SoA) [1987]
    * [partitura](https://copy.com/btDo94C1vMYhgm17)
    * [analisi](https://copy.com/HSTLzNLpaS0NjGtz)
- 9. Pierre BOULEZ - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
+ 10. Pierre BOULEZ - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
    * [partitura](https://copy.com/41VerwBKWYHmBkGD)
- 10. Michelangelo LUPONE - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
+ 11. Michelangelo LUPONE - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
    * [partitura](https://copy.com/9hkq1THaYgMEhdPM)
- 11. Giorgio NOTTOLI - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
+ 12. Giorgio NOTTOLI - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
    * [partitura](https://copy.com/InMjRabstBCCIePn)
  
 ----
