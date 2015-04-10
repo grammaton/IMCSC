@@ -27,7 +27,7 @@ layout: default
    * [note di programma](http://www.lucianoberio.org/node/1503?948448529=1)
    * [articolo](https://copy.com/l72m4MsCWbpx6sin)
  6. Max MATHEWS - [*Daisy Bell* - YOUTUBE](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
-   * [analisi](https://copy.com/nfMrfeEssQzgNnsv)
+   * [testo](https://copy.com/nfMrfeEssQzgNnsv)
  7. John CHOWNING - [*Turenas*](https://copy.com/6GJXt3OMEEwz8zwn) [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
    * [frammento ricreato con CSOUND](https://copy.com/Sq4kzN39PRFaVF2B)
