@@ -17,7 +17,7 @@ layout: default
    * [analisi](https://copy.com/rJSaV1jcrtdjndhn)
  3. Karlheinz STOCKHAUSEN - [*Gesange der Junglinge*](https://copy.com/mgl0rxtcOepMMkGY) [1956]
    * [analisi](https://copy.com/z7JIKmfuqiVCs4yl)
- 4. Franco EVANGELISTI - [*Incontri di Fasce Sonore*](https://www.youtube.com/watch?v=7ZUJMbNfUTE) [1957]
+ 4. Franco EVANGELISTI - [*Incontri di Fasce Sonore* - YOUTUBE](https://www.youtube.com/watch?v=7ZUJMbNfUTE) [1957]
    * [analisi](https://copy.com/vQdYinjrrtN44OqT)
    * [analisi](https://copy.com/nOocELFSHGL0OUkW)
  5. Luciano BERIO - [*Thema, omaggio a Joyce*](https://copy.com/AD3Idwj1ZeWr8Iw3) [1958]
@@ -28,8 +28,8 @@ layout: default
    * [analisi](https://copy.com/nfMrfeEssQzgNnsv)
  7. John CHOWNING - [*Turenas*](https://copy.com/6GJXt3OMEEwz8zwn) [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
-   * [frammento ricreato con CSOUND]()
-   * [partitura CSOUND]()
+   * [frammento ricreato con CSOUND](https://copy.com/Sq4kzN39PRFaVF2B)
+   * [partitura CSOUND](https://copy.com/1lQABTbUhbz4USYN)
  8. Jean-Claude RISSET - [*Sud* - YOUTUBE](https://www.youtube.com/watch?v=Fhj2O4jToKI) 1985
    * [analisi](https://copy.com/lVUoTMaREgXFv9g0)
  9. Luigi NONO - [*Post-preaeludium per Donau*](https://copy.com/epwTjv3yK2S37SoA) [1987]
