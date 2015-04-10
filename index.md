@@ -18,6 +18,8 @@ layout: default
  3. Karlheinz STOCKHAUSEN - [*Gesange der Junglinge*](https://copy.com/mgl0rxtcOepMMkGY) [1956]
    * [analisi](https://copy.com/z7JIKmfuqiVCs4yl)
  4. Franco EVANGELISTI - [*Incontri di Fasce Sonore* - YOUTUBE](https://www.youtube.com/watch?v=7ZUJMbNfUTE) [1957]
+   * [estratto di partitura](https://copy.com/xTvPpvNPVFPXExPY)
+   * [estratto di partitura](https://copy.com/bhpFIg1AtWkGd28W)
    * [analisi](https://copy.com/vQdYinjrrtN44OqT)
    * [analisi](https://copy.com/nOocELFSHGL0OUkW)
  5. Luciano BERIO - [*Thema, omaggio a Joyce*](https://copy.com/AD3Idwj1ZeWr8Iw3) [1958]
