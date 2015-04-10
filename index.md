@@ -14,9 +14,10 @@ layout: default
    * [partitura](https://copy.com/tD0ddJVzf6sLwkf1) 
  2. Karlheinz STOCKHAUSEN - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
  3. Karlheinz STOCKHAUSEN - *Gesange der Junglinge* 1956
- 4. Luciano BERIO - *Thema, omaggio a Joyce* 1958
- 5. Max MATHEWS - [*Daisy Bell*](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
- 6. John CHOWNING - *Turenas*  -  [1972]
+ 4. Luciano BERIO - [*Thema, omaggio a Joyce*](https://copy.com/AD3Idwj1ZeWr8Iw3) [1958]
+   * [Registrazione originale della voce - YOUTUBE](https://www.youtube.com/watch?v=c3IS5Cj_l7w)
+ 5. Max MATHEWS - [*Daisy Bell* - YOUTUBE](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
+ 6. John CHOWNING - *Turenas*  [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
  7. Jean-Claude RISSET - *Sud* 1985
  8. Luigi NONO - *Post-preaeludium per Donau* [1987]
