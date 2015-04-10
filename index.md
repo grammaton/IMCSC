@@ -1,28 +1,33 @@
 ---
 layout: default
 ---
+
 #### INFORMATICA MUSICALE CONSERVATORIO S. CECILIA
+
 ----
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AhFlhQFvYUstdFNDQlRhQXJiR1BXMjAtOEQyQ1FZZ2c&font=Bevan-PotanoSans&maptype=toner&lang=it&height=600' width='100%' height='600' frameborder='0'></iframe>
+
 ----
 
 ## 01. Introduzione al repertorio elettroacustico
 
 ### Ascolti:
 
- 1. John Cage - *Sonatas and Interludes* - [1946–48]
+ 1. John CAGE - *Sonatas and Interludes* - [1946–48]
    * [partitura](https://copy.com/tD0ddJVzf6sLwkf1) 
- 2. Karlheinz Stockhausen - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
- 3. karlheinz Stockhausen - *Gesange der Junglinge* 1956
- 4. Luciano Berio - *Thema, omaggio a Joyce* 1958
- 5. Max Mathews - [*Daisy Bell*](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
- 6. John Chowning - *Turenas*  -  [1972]
+ 2. Karlheinz STOCKHAUSEN - [*Studie II*](https://copy.com/QJyjJjMx96DK0umn) [1954]
+ 3. Karlheinz STOCKHAUSEN - *Gesange der Junglinge* 1956
+ 4. Luciano BERIO - *Thema, omaggio a Joyce* 1958
+ 5. Max MATHEWS - [*Daisy Bell*](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
+ 6. John CHOWNING - *Turenas*  -  [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
- 7. Jean-Claude Risset - *Sud* 1985
- 8. Luigi Nono - *Post-preaeludium per Donau* [1987]
+ 7. Jean-Claude RISSET - *Sud* 1985
+ 8. Luigi NONO - *Post-preaeludium per Donau* [1987]
    * [partitura](https://copy.com/btDo94C1vMYhgm17)
- 9. Pierre Boulez - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
- 10. Michelangelo Lupone - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
- 11. Giorgio Nottoli - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
+ 9. Pierre BOULEZ - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
+ 10. Michelangelo LUPONE - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
+ 11. Giorgio NOTTOLI - [*Traiettoria Tesa* - YOUTUBE](https://www.youtube.com/watch?v=bqjLSPv-KXs) [2012]
  
 ----
 
