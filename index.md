@@ -20,7 +20,7 @@ layout: default
  6. John CHOWNING - *Turenas*  [1972]
    * [analisi](https://www.academia.edu/5497062/Chowning_e_la_sintesi_FM._Analisi_di_Turenas)
  7. Jean-Claude RISSET - *Sud* 1985
- 8. Luigi NONO - *Post-preaeludium per Donau* [1987]
+ 8. Luigi NONO - [*Post-preaeludium per Donau*](https://copy.com/epwTjv3yK2S37SoA) [1987]
    * [partitura](https://copy.com/btDo94C1vMYhgm17)
  9. Pierre BOULEZ - [*Anthem II - I Tres lent*](https://copy.com/nvUFxEoO6YubGHzo) [1997]
  10. Michelangelo LUPONE - [*Gran Cassa* - YOUTUBE](https://www.youtube.com/watch?v=chhxK_RhZIk) [2006]
