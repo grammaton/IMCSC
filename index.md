@@ -63,12 +63,6 @@ Scegliere un brano dal repertorio illustrato e compilare una breve analisi compr
 
 ## 02. Analisi
 
-<form action="//formspree.io/me@giuseppesilvi.com">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>
-
 ----
 
 [![Join the chat at https://gitter.im/grammaton/IMCSC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grammaton/IMCSC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
