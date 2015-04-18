@@ -102,6 +102,7 @@ e sulle sonorità inesplorate. Una ricerca questa, che fa parte della storia del
  
  > ### Esercizio 02:
  > Compilare una breve analisi di uno dei materiali di seguito proposti avendo cura di descriverne i comportamenti sia nel dominio del tempo che della frequenza. I materiali sono estratti di brani del repertorio ascoltato durante le lezioni.
+ >
  > #### Es02.01 • Karlheinz STOCKHAUSEN - *Studie II*
  > <iframe
 	width='100%'
