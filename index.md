@@ -9,13 +9,20 @@ layout: default
 
 ## 01 • Introduzione al repertorio elettroacustico
 
-La prima lezione consiste in percorso di ascolti guidati nei primi 60 anni di musica elettronica.   
-I brani, tappe di questo percorso, sono stati scelti con un criterio di rappresentazione dei possibili stili
-che la musica elettronica ha espresso nel tempo. Si parte con gli studi per nastro magnetico realizzati da Stockhausen
-a Colonia per arrivare ad oggi, con l'utilizzo del live electronics, degli strumenti *aumentati* e del personal computer come strumento musicale.
+La prima lezione consiste in percorso di ascolti guidati nei primi 60 anni di 
+musica elettronica.   
+I brani, tappe di questo percorso, sono stati scelti con un criterio di 
+rappresentazione dei possibili stili
+che la musica elettronica ha espresso nel tempo. Si parte con gli studi per 
+nastro magnetico realizzati da Stockhausen
+a Colonia per arrivare ad oggi, con l'utilizzo del live electronics, degli 
+strumenti *aumentati* e del personal computer come strumento musicale.
 
-Per fare da introduzione a questo percorso è stato scelto un brano cardine nella storia della ricerca sul timbro
-e sulle sonorità inesplorate. Una ricerca questa, che fa parte della storia della musica e che si esprime, nelle *Sonate e interludi* di John CAGE, con una geniale fusione di poesia e scienza, più di quanto si possa fare a parole.
+Per fare da introduzione a questo percorso è stato scelto un brano cardine nella 
+storia della ricerca sul timbro
+e sulle sonorità inesplorate. Una ricerca questa, che fa parte della storia 
+della musica e che si esprime, nelle *Sonate e interludi* di John CAGE, con una 
+geniale fusione di poesia e scienza, più di quanto si possa fare a parole.
 
 ### 01.1 • Ascolti:
 
@@ -56,52 +63,81 @@ e sulle sonorità inesplorate. Una ricerca questa, che fa parte della storia del
 
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AhFlhQFvYUstdFNDQlRhQXJiR1BXMjAtOEQyQ1FZZ2c&font=Bevan-PotanoSans&maptype=toner&lang=it&height=500' width='100%' height='500' frameborder='0'></iframe>
 
---- 
+### Bibliografia
+ - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
+ - [Fred K. Prieberg - Musica ex machina](https://copy.com/mU6LRdCdxUlrVAIZ)
+ - [Sandro Biagiola - Il novecento]()
 
- > ### Esercizio 01:
- > Scegliere un brano dal repertorio illustrato e compilare una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali.
- >
- > ### Bibliografia
- > - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
- > - [Fred K. Prieberg - Musica ex machina](https://copy.com/mU6LRdCdxUlrVAIZ)
- > - [Sandro Biagiola - Il novecento]()
- >
- > ### Approfondimenti
- >
- > - [Musica e Computer](https://www.youtube.com/playlist?list=PLqVuapSW-eDQe0lPWdAiu2AKVwy_6fFiz)
-
+### Approfondimenti
+ - [Musica e Computer](https://www.youtube.com/playlist?list=PLqVuapSW-eDQe0lPWdAiu2AKVwy_6fFiz)
+ 
+ --- 
+  > ### Esercizio 01:
+  > Scegliere un brano dal repertorio illustrato e compilare una breve analisi 
+  comprendente un quadro storico, una descrizione del brano e delle impressioni 
+  personali.
+  
 ----
 
 ## 02 • Analisi
+
+La seconda lezione si concetra su aspetti tecnici del suono e per farlo è 
+necessario un lessico condiviso e privo di equivoci. Gli ascolti proposti hanno 
+lo scopo di evidenziare percorsi compositivi che hanno fatto del *timbro* 
+il parametro speculativo su cui produrre l'opera. 
 
 ### 02.1 • Ascolti:
 
  1. Luciano BERIO - [*Sequenza V* (per Trombone)](https://www.youtube.com/watch?v=PwtiSfz9084)
  2. Luigi NONO - [*Il Canto Sospeso*](https://copy.com/LMHnEL9WPvDpYbqP)   
     Claudio Abbado - Berliner Philharmoniker - 1992
- 3. Krzysztof PENDERECKI - [Trenodia per le vittime di Hiroshima](https://www.youtube.com/watch?v=HilGthRhwP8)
+ 3. Krzysztof PENDERECKI - [*Trenodia per le vittime di Hiroshima*](https://www.youtube.com/watch?v=HilGthRhwP8)
 
 
 ### 02.1 • Lessico
 
- * Suono
-   - Altezza
-   - Intensità
-   - Durata
-   - Timbro
+ * **Suono** – Definiamo **suono** la percezione del fenomeno fisico di
+ oscillazione delle molecole di un fluido (es. l'aria) tra due punti equidistanti
+ dalla *posizione di equilibrio*. Il movimento di molecole così descritto ha 
+ origine per l’azione di un corpo fisico che origina la vibrazione. 
+ L’escursione tra i valori massimi di oscillazione è data dal rapporto 
+ fra *elasticità* ed  *inerzia* del mezzo fluido. Le molecole messe in 
+ movimento tendono a comprimere lo spazio che le separa dalle molecole 
+ adiacenti ad esse, e queste a loro volta operano una compressione simile 
+ con le molecole successive, e così via, fino a quando, raggiunto il 
+ punto di oscillazione massima, le molecole invertono la direzione di 
+ movimento, generando così l’inverso della compressione, ossia una 
+ rarefazione. Il susseguirsi di compressioni e rarefazioni costituisce
+ il moto elementare del suono.
+ 
+ * Altezza  
+ * Intensità
+ * Durata
+ * Timbro
  * Spettro
- * Armonici   
-    I suoni armonici sono una successione di suoni con frequenza multipla di una frequenza fondamentale.   
-	Essendo frequenza e lunghezza d'onda inversamente proporzionali il doppio della frequnza della fondamentale
-	corrisponde alla metà della lunghezza d'onda ed il suono prodotto corrisponde all'ottava del sistema temperato. 
- * Formanti
-    Con le formanti di un suono identifichiamo delle frequenze di risonanza, in uno spettro acustico, che generano un picco di ampiezza. Ne è un buon esempio la voce umana, dove le cavità ora-larino-faringee risuonano, secondo proprietà specifiche, alla produzione sonora della glottide.   
-	Essendo le formanti un fenomeno di risonanza, esse esistono anche negli strumenti musicali, come risonanze specifiche della costuzione dello strumento, e nell'apparatu uditivo, soprattutto in riferimento al lavoro che svolge il padiglione ed il primo tratto dol condotto uditivo.
+ 
+ * **Armonici** – I suoni armonici sono una successione di suoni con frequenza
+ multipla di una frequenza fondamentale.
+ Essendo frequenza e lunghezza d'onda inversamente proporzionali il doppio 
+ della frequnza della fondamentale corrisponde alla metà della lunghezza
+ d'onda ed il suono prodotto corrisponde all'ottava del sistema temperato. 
+ 
+ * **Formanti** – Con le formanti di un suono identifichiamo delle frequenze
+ di risonanza, in uno spettro acustico, che generano un picco di ampiezza.
+ Ne è un buon esempio la voce umana, dove le cavità ora-larino-faringee
+ risuonano, secondo proprietà specifiche, alla produzione sonora della glottide.
+ Essendo le formanti un fenomeno di risonanza, esse esistono anche negli
+ strumenti musicali, come risonanze specifiche della costuzione dello strumento,
+ e nell'apparato uditivo, soprattutto in riferimento al lavoro che svolge
+ il padiglione ed il primo tratto dol condotto uditivo.
  
  --- 
  
  > ### Esercizio 02:
- > Compilare una breve analisi di uno dei materiali di seguito proposti avendo cura di descriverne i comportamenti sia nel dominio del tempo che della frequenza. I materiali sono estratti di brani del repertorio ascoltato durante le lezioni.
+ > Compilare una breve analisi di uno dei materiali di seguito proposti avendo 
+ cura di descriverne i comportamenti sia nel dominio del tempo che della 
+ frequenza. I materiali sono estratti di brani del repertorio ascoltato durante 
+ le lezioni.
  >
  > #### Es02.01 • Karlheinz STOCKHAUSEN - *Studie II*
  > <iframe
@@ -149,6 +185,114 @@ e sulle sonorità inesplorate. Una ricerca questa, che fa parte della storia del
  > </iframe>
 
 ----
+
+## 03 • Catena Elettroacustica, Campionamento
+
+La terza lezione consiste nell'illustrazione della *catena elettroacustica* con
+ un'attenzione particolare alla comprensione del *campionamento digitale*. 
+ A collegare i fatti tecnologici della catena elettroacustica e quelli musicali 
+ dell'*articolazione* è stato scelto il brano *I'm sitting in a room* di A. 
+ Lucier eseguito in classe come repertorio della musica elettroacustica. 
+ 
+### 03.1 • Ascolti
+
+ 1. Curtis ROADS - [*Eleventh Vortex*](https://youtu.be/XgBjD6_SbOU) [2005]   
+  *Beneath the level of the note lies the realm of sound particles. Each particle 
+  is a pinpoint of sound. Recent advances let us probe and manipulate this 
+  microacoustical world. Sound particles dissolve the rigid bricks of musical
+   composition-the notes and their intervals-into more fluid and supple 
+   materials. The sensations of point, pulse (series of points), line (tone), 
+   and surface (texture) emerge as the density of particles increases. Sparse 
+   emissions produce rhythmic figures. By lining up the particles in rapid 
+   succession, one can induce an illusion of tone continuity or pitch. As the
+    particles meander, they flow into liquid-like streams and rivulets. Dense 
+    agglomerations of particles form clouds of sound whose shapes evolve over 
+    time.* C.R.
+  
+  2. Karlheinz STOCKHAUSEN - VibraElufa
+  3. Gyorgy LIGETI - Atmospheres
+
+### 03.2 • Catena Elettroacustica
+
+ 1. Microfono
+ 2. Pre-amplificatore
+ 3. Convertitore
+ 4. Registratore *ADC*
+ 5. Convertitore *DAC*
+ 5. Amplificatore
+ 7. Altoparlante
+ 
+### 03.3 • Esecuzione del repertorio
+
+ 1. Alvin LUCIER - **I'm sitting in a room**
+  **Gruppo A**
+  <iframe
+   width='100%'
+   height="400"
+   src="https://www.youtube.com/embed/PORiRS7qMvs?vq=hd720"
+   frameborder="0"
+   allowfullscreen>
+  </iframe>
+  
+  **Gruppo B**
+  <iframe
+ 	width='100%'
+ 	height="400"
+ 	src="https://www.youtube.com/embed/PORiRS7qMvs?vq=hd720"
+ 	frameborder="0"
+ 	allowfullscreen>
+  </iframe>
+
+### 03.4 • Campionamento
+
+ - Frequenza
+ - Periodo
+ - Teoria del campionamento
+ - Frequenza di Campionamento
+
+### 3.5 • Quantizzazione
+
+ - Bit
+ - Decibel
+ - Risoluzione in Bit
+ 
+--- 
+
+> ### Esercizio 03:
+> Scegliere una delle due versioni del brano di A. LUCIER prodotte in classe e 
+compilare una breve analisi.
+Descrivere il ruolo della catena elettroacustica nel brano e cosa accade, dal 
+punto di vista dell'articolazione.
+
+---
+
+## 4 • Analisi
+
+Si ritorna sul tema dell'analisi di fenomeni acustici mettendo insieme competenze 
+sia analitiche che tenciche, registrando strumenti durante la lezione. 
+
+### 04.1 • Analisi del timbro degli strumenti
+
+ - Registrazione ed analisi di suoni del pianoforte
+ - Registrazione ed analisi di suoni di corno
+
+### 04.2 • Sul suono
+
+ - Fase
+ - Battimenti
+
+### 04.3 • Ascolti
+
+ - David Wessel - [*Antony*](https://www.youtube.com/watch?v=9GCZ53HRdH0) [1977]
+  * Articolo: Giorgio Nottoli, [*A proposito di musica contemporanea*](http://www.associazionemusicaoggi.com/file/A_proposito_di_musica_contemporanea_.pdf) [1997]
+ - Steve Reich - [*Violin Phase*](https://www.youtube.com/watch?v=i36Qhn7NhoA)
+ 
+> ### Esercizion 04:    
+> Descrivere il comportamento timbrico del corno e del pianoforte registrati
+durante la lezione, ponendo attenzione all'uso del lessico acquisito durante le
+lezioni. 
+
+---
 
 [![Join the chat at https://gitter.im/grammaton/IMCSC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grammaton/IMCSC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
