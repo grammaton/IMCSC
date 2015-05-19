@@ -225,7 +225,9 @@ La terza lezione consiste nell'illustrazione della *catena elettroacustica* con
 ### 03.3 • Esecuzione del repertorio
 
  1. Alvin LUCIER - **I'm sitting in a room**
+  
   **Gruppo A**
+  
   <iframe
    width='100%'
    height="400"
@@ -235,6 +237,7 @@ La terza lezione consiste nell'illustrazione della *catena elettroacustica* con
   </iframe>
   
   **Gruppo B**
+  
   <iframe
  	width='100%'
  	height="400"
