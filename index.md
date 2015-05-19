@@ -276,8 +276,25 @@ sia analitiche che tenciche, registrando strumenti durante la lezione.
 
 ### 04.1 • Analisi del timbro degli strumenti
 
- - Registrazione ed analisi di suoni del pianoforte
- - Registrazione ed analisi di suoni di corno
+ **Registrazione ed analisi di suoni del pianoforte**
+ 
+ <iframe
+  width='100%'
+  height="400"
+  src="https://www.youtube.com/embed/XBd6-0BqPLE?vq=hd720"
+  frameborder="0"
+  allowfullscreen>
+ </iframe>
+ 
+ **Registrazione ed analisi di suoni di corno**
+ 
+ <iframe
+  width='100%'
+  height="400"
+  src="https://www.youtube.com/embed/nCaRqx_SRbc?vq=hd720"
+  frameborder="0"
+  allowfullscreen>
+ </iframe>
 
 ### 04.2 • Sul suono
 
