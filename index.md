@@ -231,7 +231,7 @@ La terza lezione consiste nell'illustrazione della *catena elettroacustica* con
   <iframe
    width='100%'
    height="400"
-   src="https://www.youtube.com/embed/PORiRS7qMvs?vq=hd720"
+   src="https://www.youtube.com/embed/hOwHK36At-k?vq=hd720"
    frameborder="0"
    allowfullscreen>
   </iframe>
