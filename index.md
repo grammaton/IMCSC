@@ -307,10 +307,9 @@ sia analitiche che tenciche, registrando strumenti durante la lezione.
   * Articolo: Giorgio Nottoli, [*A proposito di musica contemporanea*](http://www.associazionemusicaoggi.com/file/A_proposito_di_musica_contemporanea_.pdf) [1997]
  - Steve Reich - [*Violin Phase*](https://www.youtube.com/watch?v=i36Qhn7NhoA)
  
-> ### Esercizion 04:    
+> ### Esercizio 04:    
 > Descrivere il comportamento timbrico del corno e del pianoforte registrati
-durante la lezione, ponendo attenzione all'uso del lessico acquisito durante le
-lezioni. 
+durante la lezione, ponendo attenzione all'uso del lessico acquisito. 
 
 ---
 
