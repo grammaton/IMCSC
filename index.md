@@ -313,6 +313,52 @@ durante la lezione, ponendo attenzione all'uso del lessico acquisito.
 
 ---
 
+## 05 • Sintesi 
+
+### 03.1 • Ascolti
+
+ - Bruno MADERNA *Musica su due dimensioni* [1952 - 58]
+ - 
+ 
+iniizo codice csound 
+
+    ; oscillatore sinusoidale
+
+    <CsoundSynthesizer>
+    <CsOptions>
+    
+    csound -3 -A -o oscillatore.aif
+
+    </CsOptions>
+    <CsInstruments>
+
+    sr     = 48000 ; frequenza di campionamento 
+    kr     = 48000 ; frequenza di controllo (posso non metterla)
+    ksmps  = 1     ; sr/kr
+    nchnls = 1     ; numero canali
+
+        instr 1
+
+    iamp   = ampdbfs(-6) ; variabile di ampiezza espressa in dB
+    ifreq  = 1000        ; frequenza 
+
+    a1 oscil iamp, ifreq, 1 
+    out a1
+    endin
+
+    </CsInstruments>
+    <CsScore>
+
+    f 1 	0 	2048 	10 	1
+
+    ;ninstr	at	durata
+    i 1 2	10	
+
+    </CsScore>
+    </CsoundSynthesizer>
+
+---
+
 [![Join the chat at https://gitter.im/grammaton/IMCSC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grammaton/IMCSC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
 <div class="github-fork-ribbon-wrapper right fixed" style="width: 150px;height: 150px;position: fixed;overflow: hidden;top: 0;z-index: 9999;pointer-events: none;right: 0;"><div class="github-fork-ribbon" style="position: absolute;padding: 2px 0;background-color: #800080;background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);-moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);z-index: 9999;pointer-events: auto;top: 42px;right: -43px;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);"><a href="https://github.com/grammaton/IMCSC" style="font: 700 13px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;text-shadow: 0 -1px rgba(0, 0, 0, 0.5);text-align: center;width: 200px;line-height: 20px;display: inline-block;padding: 2px 0;border-width: 1px 0;border-style: dotted;border-color: rgba(255, 255, 255, 0.7);">View on GitHub</a></div></div>
