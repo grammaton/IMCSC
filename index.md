@@ -339,12 +339,12 @@ iniizo codice csound
 
         instr 1
 
-    iamp   = ampdbfs(-6) ; variabile di ampiezza espressa in dB
-    ifreq  = 1000        ; frequenza 
+    iamp   = ampdbfs(p4) ; variabile di ampiezza espressa in dB
+    ifreq  = p5          ; frequenza 
 
     a1 oscil iamp, ifreq, 1 
-    out a1
-    endin
+        out a1
+        endin
 
     </CsInstruments>
     <CsScore>
@@ -352,7 +352,10 @@ iniizo codice csound
     f 1 	0 	2048 	10 	1
 
     ;ninstr	at	durata
-    i 1 2	10	
+    i 1	2	8	-20	1000
+    i 1	.	6	-14	500
+    i 1	.	4	-8	250
+    i 1	.	2	-2	125	
 
     </CsScore>
     </CsoundSynthesizer>
