@@ -408,8 +408,8 @@ Dopo aver analizzato il comportamento del suono di Corno registrato nella lezion
     ; descrizione di un inviluppo trapezioidale
     kenv linseg 0., idur * .1, 1, idur * .86, 1, idur * .04, 0
     
-    ; dove kenv è il nome, linseg disegna segmenti che vanno dal un punto ad un
-    ; altro in una durata specifica
+    ; dove kenv è il nome, linseg disegna segmenti che
+    ; vanno dal un punto ad un altro in una durata specifica
 
     a1 oscil iamp*kenv, ifreq, 1
     ; per applicare l'inviluppo si moltiplica kenv per l'ampiezza
