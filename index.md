@@ -367,11 +367,17 @@ Oscillazine sinusoidale realizzata con **CSOUND** durante la lezione.
     f 1 	0 	2048 	10 	1 ; funzione che descrive un ciclo di onda sinusoidale
 
     ; campi per i parametri di controllo
+    ; i primi tre sono obbligatori
+    
     ;p1     p2    p3    p4      p5
     ;ninst  at   	dur   dB      freq
     
     i 1   	2   	8   	-20   	1000
-
+    
+    ; questo programma di csound genera un'oscillazione
+    ; sinusoidale a 1000Hz che parte al secondo 2 e dura 8 secondi
+    ; con intensità -20dB
+    
     </CsScore>
     </CsoundSynthesizer>
 
