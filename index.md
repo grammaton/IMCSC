@@ -328,30 +328,46 @@ Oscillazine sinusoidale realizzata con **CSOUND** durante la lezione.
     <CsOptions>
     
     csound -3 -A -o oscillatore.aif
-
+    
+    ; qui ho detto a csound di fare un file
+    ; -3 = 24 Bit // -2 = 16 Bit // -1 = 8 Bit
+    ; -A = AIFF
+    ; -o = scrivi file su disco, che si chiama oscillatore.aif
+    
     </CsOptions>
     <CsInstruments>
 
     sr     = 48000 ; frequenza di campionamento 
-    kr     = 48000 ; frequenza di controllo (posso non metterla)
+    ; kr     = 48000 ; frequenza di controllo (posso non metterla)
     ksmps  = 1     ; sr/kr
     nchnls = 1     ; numero canali
 
-        instr 1
-
-    iamp   = ampdbfs(p4) ; variabile di ampiezza espressa in dB
-    ifreq  = p5          ; frequenza 
-
+        instr 1 ; inizio strumento oscillatore
+        
+    ; variabili di controllo
+    iamp   = ampdbfs(p4) ; variabile di ampiezza
+                         ; ampdbfs = indico a csound il valore in dB (-96 ~ 0)dB
+                         ;           e lui lo converte in ampiezza
+    ifreq  = p5          ; variabile di frequenza 
+    
+    ; oscillazione periodica    
     a1 oscil iamp, ifreq, 1
     
-        out a1
-        endin
+    ; a1 = etichetta oscillazione
+    ; oscil = oscillazione periodica
+    ; iamp = recupero il valore di intensità
+    ; ifreq = recupero il valore di frequenza
+    ; 1 = scelgo la funzione n 1 descritta in partitura (sinusoide)  
+  
+        endin ; fine strumento 1
 
     </CsInstruments>
     <CsScore>
 
-    f 1 	0 	2048 	10 	1
+    f 1 	0 	2048 	10 	1 ; funzione che descrive un ciclo di onda sinusoidale
 
+    ; campi per i parametri di controllo
+    ;p1     p2    p3    p4      p5
     ;ninst  at   	dur   dB      freq
     
     i 1   	2   	8   	-20   	1000
@@ -380,12 +396,17 @@ Dopo aver analizzato il comportamento del suono di Corno registrato nella lezion
         instr 1
 
     idur   = p3
-    iamp   = ampdbfs(p4) ; variabile di ampiezza espressa in dB
-    ifreq  = p5          ; frequenza
+    iamp   = ampdbfs(p4)
+    ifreq  = p5          
 
-    kenv linseg 0., idur * .1, 1, idur * .86, 1, idur * .04, 0   
+    ; descrizione di un inviluppo trapezioidale
+    kenv linseg 0., idur * .1, 1, idur * .86, 1, idur * .04, 0
+    
+    ; dove kenv è il nome, linseg disegna segmenti che vanno dal un punto ad un
+    ; altro in una durata specifica
 
-    a1 oscil iamp*kenv, ifreq, 1 
+    a1 oscil iamp*kenv, ifreq, 1
+    ; per applicare l'inviluppo si moltiplica kenv per l'ampiezza
 	
         out a1
 	      endin
@@ -417,6 +438,9 @@ descriverne le righe di codice.
 >
 >     <CsoundSynthesizer>
 >     <CsOptions>
+>
+>     csound -3 -A -o HB.aif
+>
 >     </CsOptions>
 >     <CsInstruments>
 >
@@ -429,7 +453,7 @@ descriverne le righe di codice.
 >
 >     iamp 	= ampdbfs(-16)
 >     ifreq	= p4
->     idur     = p3
+>     idur  = p3
 >     
 >     kenv	linseg 0.0, idur*0.05, 1.0, idur*0.9, 1.0, idur*0.05, 0.0 
 >     a1	oscil	iamp*kenv, ifreq, 1
