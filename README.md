@@ -1,11 +1,13 @@
+### GH-PAGES
+
+[Informatica Musicale per il Conservatorio Santa Cecilia](http://giuseppesilvi.com/IMCSC)
+
 ### MASTER
 
 - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 - [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
+- [GitHub Guides](https://guides.github.com)
 
-### GH-PAGES
-
-[Informatica Musicale per il Conservatorio Santa Cecilia](http://giuseppesilvi.com/IMCSC)
 
 ----
 
