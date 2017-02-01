@@ -1,6 +1,7 @@
 ### MASTER
 
-- [terminal](https://www.learnenough.com/command-line-tutorial)
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+- [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 
 ### GH-PAGES
 
