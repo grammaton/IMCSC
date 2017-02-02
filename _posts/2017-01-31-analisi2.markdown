@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "04 • Analisi"
+date:   2017-01-31 02:00:00 +0100
+categories: catena, elettroacustica
+---
+
+Si ritorna sul tema dell'analisi di fenomeni acustici mettendo insieme competenze
+sia analitiche che tenciche, registrando strumenti durante la lezione.
+
+### 04.1 • Analisi del timbro degli strumenti
+
+ **Registrazione ed analisi di suoni del pianoforte**
+
+ <iframe
+  width='100%'
+  height="400"
+  src="https://www.youtube.com/embed/XBd6-0BqPLE?vq=hd720"
+  frameborder="0"
+  allowfullscreen>
+ </iframe>
+
+ **Registrazione ed analisi di suoni di corno**
+
+ <iframe
+  width='100%'
+  height="400"
+  src="https://www.youtube.com/embed/nCaRqx_SRbc?vq=hd720"
+  frameborder="0"
+  allowfullscreen>
+ </iframe>
+
+### 04.2 • Sul suono
+
+ - Fase
+ - Battimenti
+
+### 04.3 • Ascolti
+
+ - David Wessel - [*Antony*](https://www.youtube.com/watch?v=9GCZ53HRdH0) [1977]
+  * Articolo: Giorgio Nottoli, [*A proposito di musica contemporanea*](http://www.associazionemusicaoggi.com/file/A_proposito_di_musica_contemporanea_.pdf) [1997]
+ - Steve Reich - [*Violin Phase*](https://www.youtube.com/watch?v=i36Qhn7NhoA)
+
+> ### Esercizio 04:    
+> Descrivere il comportamento timbrico del corno e del pianoforte registrati
+durante la lezione, ponendo attenzione all'uso del lessico acquisito.

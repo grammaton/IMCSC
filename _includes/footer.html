@@ -1,0 +1,43 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }} • <i>{{ site.description | escape }}</i></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          {% if site.info %}
+            <li><strong>{{ site.info.name | escape }}</strong></li>
+          {% endif %}
+            </li>
+          {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html %}
+          </li>
+          {% endif %}
+          <li <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

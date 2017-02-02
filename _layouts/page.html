@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    {% if page.subtitle %}
+    <h1 class="post-title">{{ page.title | escape }} • <i>{{ page.subtitle | escape }}</i></h1>
+    {% else %}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% endif %}
+    {% if page.description %}
+    <h2 clsss="post-subtitle"><i>{{ page.description | escape }}</i></h2>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

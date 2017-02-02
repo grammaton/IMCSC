@@ -1,0 +1,55 @@
+/* #### - gallery thumbs - #### */
+#gallery { margin:0; padding:0; list-style:none; display:table; *overflow:hidden }
+#gallery li { position:relative; float:left; margin-right:1em; margin-bottom:1em; border:1px solid #333 }
+#gallery li a, #gallery li a img { display:block; border:0; text-decoration:none }
+#gallery li a span { position:absolute; top:0; left:0; width:100%; height:100%; text-align:center; cursor:pointer; color:transparent; filter:alpha(opacity=0); opacity:0; background:#fff }
+#gallery li a span:before { content:""; display:inline-block; height:100%; vertical-align:middle; margin-top:-0.25em } /* http://css-tricks.com/centering-in-the-unknown/ */
+#gallery li a:hover span { filter:alpha(opacity=70); opacity:.7 }
+#gallery li a:hover span b { filter:alpha(opacity=99); opacity:1 }
+#gallery li a span, #gallery li a span b, #gallery li a:hover span, #gallery li a:hover span b { -webkit-transition:opacity .35s ease-in-out; transition:opacity .35s ease-in-out }
+
+/* #### - gallery thumbs magnifying glass - #### */
+#gallery li a span b { display:inline-block; position:relative; width:1.75em; height:1.75em; line-height:3em; vertical-align:middle; border:.25em solid #000; border-radius:50% }
+#gallery li a span b:before { content:""; position:absolute; top:.75em; left:.5em; width:.25em; height:.25em; background:#000;
+	box-shadow:.2em 0 0 #000, .35em 0 0 #000, .5em 0 0 #000, .5em 0 0 #000, .25em .2em 0 #000, .25em .3em 0 #000, .25em -.2em 0 #000, .25em -.3em 0 #000
+	}
+#gallery li a span b:after { content:""; position:absolute; top:1.5em; left:-.5em; width:.5em; height:1.5em; background:#000; border-radius:.2em;
+	-webkit-transform:rotate(40deg); -ms-transform:rotate(40deg); transform:rotate(40deg)
+	}
+
+/* #### - modal overlay plus contents - #### */
+#gallery .overlay { position:fixed; overflow:hidden; left:0; top:0; width:0; height:0; z-index:9999; text-align:center; color:#fff; background:rgba(0,0,0,.75) }
+#gallery .overlay div { position:absolute; bottom:1px; left:1px; right:1px }
+#gallery .overlay div p { font-size:0.875em; text-align:center; max-width:60em; margin:0 auto; padding:0.5em 1em; background:rgba(0,0,0,.75); border-radius:2em }
+#gallery .overlay div a { display:inline; color:#fff; text-decoration:none }
+#gallery .overlay img { max-width:100%; max-height:100%; position:absolute; opacity:0; float:none; margin:0; top:48%; left:50%;
+	-webkit-transform:translate(-50%,-50%); -ms-transform:translate(-50%,-50%); transform:translate(-50%,-50%);
+	-moz-box-sizing:border-box; box-sizing:border-box; -webkit-transition:opacity .5s linear; transition:opacity .5s linear
+	}
+#gallery .overlay:target { width:auto; height:auto; bottom:0; right:0; padding:0.5em 0 5em }
+#gallery .overlay:target img { opacity:1 }
+
+/* #### - gallery controls - #### */
+#gallery .close { position:absolute; z-index:1001; font:bold 1.5em/1.3em Arial; color:#fff; background:#222; top:1px; left:50%; margin-left:-0.725em; width:1.25em; height:1.25em; border-radius:50%; border:2px solid #fff; box-shadow:0 0 0 1px rgb(102,102,102) }
+#gallery .close:hover { background:#666 }
+#gallery .prev, #gallery .next { color:transparent; position:absolute; z-index:1000; display:inline-block; top:0; right:0; width:50%; height:100% }
+#gallery .prev { left:0 }
+#gallery .next:after, #gallery .prev:after { content:"\203A"; display:block; position:relative; top:43%; right:0; font-size:10em; color:#222; text-align:right; opacity:.75;
+	text-shadow:0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff, 0 0 4px #fff, 0 0 5px #fff;
+	-webkit-transform:translateY(-50%); -ms-transform:translateY(-50%); transform:translateY(-50%)
+	}
+#gallery .prev:after { content:"\2039"; text-align:left }
+#gallery .next:hover:after, #gallery .prev:hover:after { color:#666 }
+
+
+@media ( min-width:48.75em ) { /* #### - make better use of space at 780px (780/16=48.75 - 16px being default browser font-size) - #### */
+	#gallery .overlay div { position:relative; bottom:auto }
+	#gallery .overlay img { border:2px solid #fff; border-radius:0.3125em; position:relative; top:auto; left:auto; -webkit-transform:none; -ms-transform:none; transform:none }
+	#gallery .overlay:target { padding-top:2.875em }
+	#gallery .prev, #gallery .next { display:block; left:50%; top:2.125em; width:2.5em; height:auto; background:#222; font:bold 0.875em/1.875em Arial; color:#fff; padding:0 0.5em; border-radius:0.3125em; border:2px solid #fff; box-shadow:0 0 0 1px rgb(102,102,102) }
+	#gallery .prev { margin-left:-5.625em; -webkit-transform:scale(-1,1); -ms-transform:scale(-1,1); transform:scale(-1,1) }
+	#gallery .next { margin-left:1.85em }
+	#gallery .prev:hover, #gallery .next:hover { background:#666 }
+	#gallery .next:after, #gallery .prev:after { display:none }
+	#gallery .close { top:1.175em }
+	}

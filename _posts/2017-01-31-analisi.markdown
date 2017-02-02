@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "02 • Analisi"
+date:   2017-01-31 04:00:00 +0100
+categories: analisi
+---
+
+La seconda lezione si concetra su aspetti tecnici del suono e per farlo è
+necessario un lessico condiviso e privo di equivoci. Gli ascolti proposti hanno
+lo scopo di evidenziare percorsi compositivi che hanno fatto del *timbro*
+il parametro speculativo su cui produrre l'opera.
+
+### 02.1 • Ascolti:
+
+ 1. Luciano BERIO - [*Sequenza V* (per Trombone)](https://www.youtube.com/watch?v=PwtiSfz9084)
+ 2. Luigi NONO - [*Il Canto Sospeso*](https://copy.com/LMHnEL9WPvDpYbqP)   
+    Claudio Abbado - Berliner Philharmoniker - 1992
+ 3. Krzysztof PENDERECKI - [*Trenodia per le vittime di Hiroshima*](https://www.youtube.com/watch?v=HilGthRhwP8)
+
+
+### 02.1 • Lessico
+
+ * **Suono** – Definiamo **suono** la percezione del fenomeno fisico di
+ oscillazione delle molecole di un fluido (es. l'aria) tra due punti equidistanti
+ dalla *posizione di equilibrio*. Il movimento di molecole così descritto ha
+ origine per l’azione di un corpo fisico che origina la vibrazione.
+ L’escursione tra i valori massimi di oscillazione è data dal rapporto
+ fra *elasticità* ed  *inerzia* del mezzo fluido. Le molecole messe in
+ movimento tendono a comprimere lo spazio che le separa dalle molecole
+ adiacenti ad esse, e queste a loro volta operano una compressione simile
+ con le molecole successive, e così via, fino a quando, raggiunto il
+ punto di oscillazione massima, le molecole invertono la direzione di
+ movimento, generando così l’inverso della compressione, ossia una
+ rarefazione. Il susseguirsi di compressioni e rarefazioni costituisce
+ il moto elementare del suono.
+
+ * Altezza  
+ * Intensità
+ * Durata
+ * Timbro
+ * Spettro
+
+ * **Armonici** – I suoni armonici sono una successione di suoni con frequenza
+ multipla di una frequenza fondamentale.
+ Essendo frequenza e lunghezza d'onda inversamente proporzionali il doppio
+ della frequnza della fondamentale corrisponde alla metà della lunghezza
+ d'onda ed il suono prodotto corrisponde all'ottava del sistema temperato.
+
+ * **Formanti** – Con le formanti di un suono identifichiamo delle frequenze
+ di risonanza, in uno spettro acustico, che generano un picco di ampiezza.
+ Ne è un buon esempio la voce umana, dove le cavità ora-larino-faringee
+ risuonano, secondo proprietà specifiche, alla produzione sonora della glottide.
+ Essendo le formanti un fenomeno di risonanza, esse esistono anche negli
+ strumenti musicali, come risonanze specifiche della costuzione dello strumento,
+ e nell'apparato uditivo, soprattutto in riferimento al lavoro che svolge
+ il padiglione ed il primo tratto dol condotto uditivo.
+
+ ---
+
+ > ### Esercizio 02:
+ > Compilare una breve analisi di uno dei materiali di seguito proposti avendo
+ cura di descriverne i comportamenti sia nel dominio del tempo che della
+ frequenza. I materiali sono estratti di brani del repertorio ascoltato durante
+ le lezioni.
+ >
+ > #### Es02.01 • Karlheinz STOCKHAUSEN - *Studie II*
+ > <iframe
+	width='100%'
+	height="400"
+	src="https://www.youtube.com/embed/6Plz8vDzrho?vq=hd720"
+	frameborder="0"
+	allowfullscreen>
+ > </iframe>
+ >
+ > #### Es02.02 • John CHOWNING - *Turenas*
+ > <iframe
+	width='100%'
+	height="400"
+	src="https://www.youtube.com/embed/nLFf4kMMGJQ?vq=hd720"
+	frameborder="0"
+	allowfullscreen>
+ > </iframe>
+ >
+ > #### Es02.03 • Luigi NONO - *Il Canto Sospeso*
+ > <iframe
+	width='100%'
+	height="400"
+	src="https://www.youtube.com/embed/S4KrQntifnQ?vq=hd720"
+	frameborder="0"
+	allowfullscreen>
+ > </iframe>
+ >
+ > #### Es02.04 • Luciano BERIO - *Sequenza V*
+ > <iframe
+	width='100%'
+	height="400"
+	src="https://www.youtube.com/embed/BOtYjSKHSEc?vq=hd720"
+	frameborder="0"
+	allowfullscreen>
+ > </iframe>
+ >
+ > #### Es02.05 • Pierre Boulez - *Anthem II*
+ > <iframe
+	width='100%'
+	height="400"
+	src="https://www.youtube.com/embed/C7dXAKIOtWo?vq=hd720"
+	frameborder="0"
+	allowfullscreen>
+ > </iframe>
